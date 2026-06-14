@@ -2,7 +2,7 @@
 // @name         GeoFS Ultimate HUD (All-In-One Fix v11.0)
 // @version      11.0
 // @description  強制同步音效與文字、動態V1/VR、精確下沉率監控
-// @author       User & Gemini AI
+// @author       Terra YT
 // @match        https://www.geo-fs.com/geofs.php*
 // @grant        none
 // ==/UserScript==
